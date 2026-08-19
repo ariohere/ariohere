@@ -28,6 +28,3 @@ Currently exploring:
 Python · TypeScript · C++ · FastAPI · Docker · Linux  
 LLMs · Agents · RAG · MCP · ROS2 · OpenCV
 
-### Find me
-
-Instagram · YouTube · LinkedIn · Website
